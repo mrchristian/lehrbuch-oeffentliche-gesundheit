@@ -1,21 +1,21 @@
 ---
 layout: page
 title: 07. Verwaltungshandeln
-nav_order: 6
+nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Öffentlich-rechtliches Verwaltungshandeln ist im formellen Sinne die von
 Verwaltungsbehörden ausgeübte Tätigkeit und im materiellen Sinne die
 Wahrnehmung von Verwaltungsaufgaben.

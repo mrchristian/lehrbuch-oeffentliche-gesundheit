@@ -1,21 +1,21 @@
 ---
 layout: page
 title: 06. Rechtsnormen
-nav_order: 7
+nav_order: 6
 ---
- 
-<details markdown="block"> 
+
+<details markdown="block">
   <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Ärztliche Rolle in der Exekutive
 
 Für die meisten Ärztinnen und Ärzte, die beginnen in einer Behörde im
@@ -476,7 +476,7 @@ finden sich auf der Internetseite des Rober Koch-Institut
 (hier</span>:<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26170340">
 </span>[https://www.rki.de/DE/Content/Infekt/IGV/igv\_node.html\#doc2391006bodyText6](https://www.rki.de/DE/Content/Infekt/IGV/igv_node.html "RKI zu IGV")
 
-#### 
+####
 
 #### IGV-Monitoring & Evaluation Framework
 
@@ -555,7 +555,7 @@ folgendermaßen<span class="approved-insertion" data-user="20" data-username="pt
 10. Förderung der Forschung im Bereich der öffentlichen Gesundheit
     zwecks Anwendung in Politik und Praxis
 
-# 
+#
 
 <div class="csl-bib-body">
 
