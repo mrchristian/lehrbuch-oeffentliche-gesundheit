@@ -22,7 +22,7 @@ aux_links:
   "Lehrbuch auf GitHub":
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
   "PDF":
-    - "https://akademie-oeffentliches-gesundheitswesen.github.io/lehrbuch-oeffentliche-gesundheit/assets/pdf/lehrbuch-oeffentliche-gesundheit.pdf"
+    - "assets/pdf/book-test.pdf"
 
 logo: "akademie.jpeg"
 
