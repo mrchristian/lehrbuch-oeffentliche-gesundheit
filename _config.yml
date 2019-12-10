@@ -18,7 +18,7 @@ aux_links:
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
   "PDF":
     - "assets/pdf/book-test.pdf"
-  "Web Buch":
+  "Web-Buch":
     - "https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://github.com/mrchristian/lehrbuch-oeffentliche-gesundheit/blob/master/los.xhtml&renderAllPages=true&spread=true"
 
 logo: "akademie.jpeg"
